@@ -1,0 +1,38 @@
+name: 毎日の株価ランキング自動更新
+
+on:
+  schedule:
+    - cron: '0 0 * * 2-6'  # 毎日 9:00 JST（月〜金、UTC 0:00）
+  workflow_dispatch:         # GitHub UI から手動実行も可能
+
+jobs:
+  update-ranking:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # コミット・プッシュに必要
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python をセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 依存パッケージをインストール
+        run: pip install -r requirements.txt
+
+      - name: スクレイパーを実行
+        run: python scraper.py
+
+      - name: 変更をコミット・プッシュ
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add ranking_data.json ranking.html
+          git diff --staged --quiet && echo "変更なし" && exit 0
+          git commit -m "自動更新: $(date -u '+%Y-%m-%d') ランキングデータ"
+          git push
