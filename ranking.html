@@ -204,13 +204,60 @@ tr.hl:hover td{background:rgba(196,124,10,.12) !important}
 
 /* チャートエリア */
 .chart-wrap{position:relative;padding:.9rem 1.1rem 1.1rem}
+.chart-h{height:282px}
+
+/* テーブルスクロールラッパー */
+.table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.table-wrap table{min-width:480px}
 
 /* スクロールエリア */
-.scroll{max-height:330px;overflow-y:auto}
-.scroll::-webkit-scrollbar{width:4px}
+.scroll{max-height:330px;overflow-y:auto;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.scroll table{min-width:360px}
+.scroll::-webkit-scrollbar{width:4px;height:4px}
 .scroll::-webkit-scrollbar-track{background:transparent}
 .scroll::-webkit-scrollbar-thumb{background:var(--border-md);border-radius:4px}
 .scroll::-webkit-scrollbar-thumb:hover{background:var(--dim)}
+
+/* ── モバイル (≤ 640px) ─────────────── */
+@media(max-width:640px){
+  .topbar{padding:.6rem 1rem;gap:.6rem;flex-wrap:nowrap}
+  .title,.src-tag,.sep{display:none}
+  .date-tag{font-size:.65rem;padding:.15rem .45rem}
+
+  .main{padding:.85rem .75rem;gap:.85rem}
+
+  .kpi-row{grid-template-columns:repeat(2,1fr);gap:.6rem}
+  .kpi{padding:.75rem .9rem .7rem}
+  .kpi-value{font-size:1.25rem}
+  .kpi-sub{font-size:.62rem;margin-top:.3rem}
+
+  .grid-2,.grid-3{gap:.85rem}
+
+  .card-header{padding:.5rem .85rem}
+  .card-sub{display:none}
+
+  th{padding:.45rem .65rem;font-size:.6rem}
+  td{padding:.55rem .65rem;font-size:.76rem}
+
+  .nm{max-width:100px}
+  .bar-track{display:none}
+  .bar-cell{gap:.3rem}
+
+  .chart-h{height:210px}
+  .chart-wrap{padding:.6rem .75rem .85rem}
+}
+
+/* ── 極小画面 (≤ 400px) ─────────────── */
+@media(max-width:400px){
+  .main{padding:.7rem .6rem;gap:.7rem}
+  .kpi-row{gap:.5rem}
+  .kpi{padding:.65rem .75rem .6rem}
+  .kpi-value{font-size:1.1rem}
+  .kpi-label{font-size:.58rem}
+  .logo{font-size:.78rem}
+  .live-text{display:none}
+  .chart-h{height:180px}
+}
 </style>
 </head>
 <body>
@@ -268,18 +315,19 @@ tr.hl:hover td{background:rgba(196,124,10,.12) !important}
         <span class="card-title">本日のトップ 10（売買代金順）</span>
         <span class="card-sub">売買代金 ＝ 株価 × 出来高</span>
       </div>
-      <table>
-        <thead>
-          <tr>
-            <th style="width:36px">順位</th>
-            <th>銘柄コード</th>
-            <th>銘柄名</th>
-            <th style="text-align:right">株価（USD）</th>
-            <th style="text-align:right">騰落率</th>
-            <th>売買代金</th>
-          </tr>
-        </thead>
-        <tbody><tr><td><span class="rank-num">1</span></td><td class="tk">MU</td><td class="nm">Micron Technology, Inc.</td><td class="mono right">$1,132.33</td><td class="mono right neg">▼ -6.69%</td><td><div class="bar-cell"><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="bar-val mono">$95.6B</span></div></td></tr>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th style="width:36px">順位</th>
+              <th>銘柄コード</th>
+              <th>銘柄名</th>
+              <th style="text-align:right">株価（USD）</th>
+              <th style="text-align:right">騰落率</th>
+              <th>売買代金</th>
+            </tr>
+          </thead>
+          <tbody><tr><td><span class="rank-num">1</span></td><td class="tk">MU</td><td class="nm">Micron Technology, Inc.</td><td class="mono right">$1,132.33</td><td class="mono right neg">▼ -6.69%</td><td><div class="bar-cell"><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="bar-val mono">$95.6B</span></div></td></tr>
 <tr><td><span class="rank-num">2</span></td><td class="tk">AAPL</td><td class="nm">Apple Inc.</td><td class="mono right">$283.78</td><td class="mono right pos">▲ +3.14%</td><td><div class="bar-cell"><div class="bar-track"><div class="bar-fill" style="width:77%"></div></div><span class="bar-val mono">$74.1B</span></div></td></tr>
 <tr><td><span class="rank-num">3</span></td><td class="tk">MSFT</td><td class="nm">Microsoft Corporation</td><td class="mono right">$372.97</td><td class="mono right pos">▲ +5.71%</td><td><div class="bar-cell"><div class="bar-track"><div class="bar-fill" style="width:70%"></div></div><span class="bar-val mono">$67.5B</span></div></td></tr>
 <tr><td><span class="rank-num">4</span></td><td class="tk">AMZN</td><td class="nm">Amazon.com, Inc.</td><td class="mono right">$232.69</td><td class="mono right pos">▲ +2.50%</td><td><div class="bar-cell"><div class="bar-track"><div class="bar-fill" style="width:58%"></div></div><span class="bar-val mono">$56.1B</span></div></td></tr>
@@ -289,14 +337,15 @@ tr.hl:hover td{background:rgba(196,124,10,.12) !important}
 <tr><td><span class="rank-num">8</span></td><td class="tk">AMD</td><td class="nm">Advanced Micro Devices, Inc.</td><td class="mono right">$521.58</td><td class="mono right neg">▼ -2.06%</td><td><div class="bar-cell"><div class="bar-track"><div class="bar-fill" style="width:28%"></div></div><span class="bar-val mono">$26.9B</span></div></td></tr>
 <tr><td><span class="rank-num">9</span></td><td class="tk">GOOG</td><td class="nm">Alphabet Inc.</td><td class="mono right">$334.69</td><td class="mono right neg">▼ -2.19%</td><td><div class="bar-cell"><div class="bar-track"><div class="bar-fill" style="width:27%"></div></div><span class="bar-val mono">$26.7B</span></div></td></tr>
 <tr><td><span class="rank-num">10</span></td><td class="tk">SPCX</td><td class="nm">Space Exploration Technologies </td><td class="mono right">$153.23</td><td class="mono right pos">▲ +0.15%</td><td><div class="bar-cell"><div class="bar-track"><div class="bar-fill" style="width:20%"></div></div><span class="bar-val mono">$19.4B</span></div></td></tr></tbody>
-      </table>
+        </table>
+      </div>
     </div>
     <div class="card">
       <div class="card-header">
         <span class="card-title">NVDA — 順位推移グラフ</span>
         <span class="card-sub">数値が小さいほど上位</span>
       </div>
-      <div class="chart-wrap" style="height:282px">
+      <div class="chart-wrap chart-h">
         <canvas id="nvdaChart"></canvas>
       </div>
     </div>
@@ -328,7 +377,7 @@ tr.hl:hover td{background:rgba(196,124,10,.12) !important}
       <div class="card-header">
         <span class="card-title">1位獲得回数グラフ</span>
       </div>
-      <div class="chart-wrap" style="height:282px">
+      <div class="chart-wrap chart-h">
         <canvas id="no1Chart"></canvas>
       </div>
     </div>

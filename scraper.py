@@ -453,13 +453,60 @@ tr.hl:hover td{{background:rgba(196,124,10,.12) !important}}
 
 /* チャートエリア */
 .chart-wrap{{position:relative;padding:.9rem 1.1rem 1.1rem}}
+.chart-h{{height:282px}}
+
+/* テーブルスクロールラッパー */
+.table-wrap{{overflow-x:auto;-webkit-overflow-scrolling:touch}}
+.table-wrap table{{min-width:480px}}
 
 /* スクロールエリア */
-.scroll{{max-height:330px;overflow-y:auto}}
-.scroll::-webkit-scrollbar{{width:4px}}
+.scroll{{max-height:330px;overflow-y:auto;overflow-x:auto;-webkit-overflow-scrolling:touch}}
+.scroll table{{min-width:360px}}
+.scroll::-webkit-scrollbar{{width:4px;height:4px}}
 .scroll::-webkit-scrollbar-track{{background:transparent}}
 .scroll::-webkit-scrollbar-thumb{{background:var(--border-md);border-radius:4px}}
 .scroll::-webkit-scrollbar-thumb:hover{{background:var(--dim)}}
+
+/* ── モバイル (≤ 640px) ─────────────── */
+@media(max-width:640px){{
+  .topbar{{padding:.6rem 1rem;gap:.6rem;flex-wrap:nowrap}}
+  .title,.src-tag,.sep{{display:none}}
+  .date-tag{{font-size:.65rem;padding:.15rem .45rem}}
+
+  .main{{padding:.85rem .75rem;gap:.85rem}}
+
+  .kpi-row{{grid-template-columns:repeat(2,1fr);gap:.6rem}}
+  .kpi{{padding:.75rem .9rem .7rem}}
+  .kpi-value{{font-size:1.25rem}}
+  .kpi-sub{{font-size:.62rem;margin-top:.3rem}}
+
+  .grid-2,.grid-3{{gap:.85rem}}
+
+  .card-header{{padding:.5rem .85rem}}
+  .card-sub{{display:none}}
+
+  th{{padding:.45rem .65rem;font-size:.6rem}}
+  td{{padding:.55rem .65rem;font-size:.76rem}}
+
+  .nm{{max-width:100px}}
+  .bar-track{{display:none}}
+  .bar-cell{{gap:.3rem}}
+
+  .chart-h{{height:210px}}
+  .chart-wrap{{padding:.6rem .75rem .85rem}}
+}}
+
+/* ── 極小画面 (≤ 400px) ─────────────── */
+@media(max-width:400px){{
+  .main{{padding:.7rem .6rem;gap:.7rem}}
+  .kpi-row{{gap:.5rem}}
+  .kpi{{padding:.65rem .75rem .6rem}}
+  .kpi-value{{font-size:1.1rem}}
+  .kpi-label{{font-size:.58rem}}
+  .logo{{font-size:.78rem}}
+  .live-text{{display:none}}
+  .chart-h{{height:180px}}
+}}
 </style>
 </head>
 <body>
@@ -517,26 +564,28 @@ tr.hl:hover td{{background:rgba(196,124,10,.12) !important}}
         <span class="card-title">本日のトップ 10（売買代金順）</span>
         <span class="card-sub">売買代金 ＝ 株価 × 出来高</span>
       </div>
-      <table>
-        <thead>
-          <tr>
-            <th style="width:36px">順位</th>
-            <th>銘柄コード</th>
-            <th>銘柄名</th>
-            <th style="text-align:right">株価（USD）</th>
-            <th style="text-align:right">騰落率</th>
-            <th>売買代金</th>
-          </tr>
-        </thead>
-        <tbody>{table_rows}</tbody>
-      </table>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th style="width:36px">順位</th>
+              <th>銘柄コード</th>
+              <th>銘柄名</th>
+              <th style="text-align:right">株価（USD）</th>
+              <th style="text-align:right">騰落率</th>
+              <th>売買代金</th>
+            </tr>
+          </thead>
+          <tbody>{table_rows}</tbody>
+        </table>
+      </div>
     </div>
     <div class="card">
       <div class="card-header">
         <span class="card-title">NVDA — 順位推移グラフ</span>
         <span class="card-sub">数値が小さいほど上位</span>
       </div>
-      <div class="chart-wrap" style="height:282px">
+      <div class="chart-wrap chart-h">
         <canvas id="nvdaChart"></canvas>
       </div>
     </div>
@@ -568,7 +617,7 @@ tr.hl:hover td{{background:rgba(196,124,10,.12) !important}}
       <div class="card-header">
         <span class="card-title">1位獲得回数グラフ</span>
       </div>
-      <div class="chart-wrap" style="height:282px">
+      <div class="chart-wrap chart-h">
         <canvas id="no1Chart"></canvas>
       </div>
     </div>
