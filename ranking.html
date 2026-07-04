@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>米国株 売買代金ダッシュボード — 2026-07-03</title>
+<title>米国株 売買代金ダッシュボード — 2026-07-04</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
 :root{
@@ -270,7 +270,7 @@ tr.hl:hover td{background:rgba(196,124,10,.12) !important}
   </div>
   <div class="topbar-right">
     <span class="src-tag">出典: Yahoo Finance</span>
-    <span class="date-tag">2026-07-03</span>
+    <span class="date-tag">2026-07-04</span>
     <div class="live-badge">
       <span class="live-dot"></span>
       <span class="live-text">更新済み</span>
@@ -285,7 +285,7 @@ tr.hl:hover td{background:rgba(196,124,10,.12) !important}
     <div class="kpi">
       <div class="kpi-stripe"></div>
       <div class="kpi-label">累計追跡日数</div>
-      <div class="kpi-value">5<span style="font-size:.85rem;font-weight:400;color:var(--dim)"> 日</span></div>
+      <div class="kpi-value">6<span style="font-size:.85rem;font-weight:400;color:var(--dim)"> 日</span></div>
       <div class="kpi-sub">計測開始以来</div>
     </div>
     <div class="kpi">
@@ -304,7 +304,7 @@ tr.hl:hover td{background:rgba(196,124,10,.12) !important}
       <div class="kpi-stripe" style="background:linear-gradient(90deg,var(--gold),rgba(196,124,10,.2))"></div>
       <div class="kpi-label">最多 1位獲得銘柄</div>
       <div class="kpi-value kpi-gold">MU</div>
-      <div class="kpi-sub">5日 1位獲得</div>
+      <div class="kpi-sub">6日 1位獲得</div>
     </div>
   </div>
 
@@ -369,7 +369,7 @@ tr.hl:hover td{background:rgba(196,124,10,.12) !important}
               <th style="text-align:right">最終 1位日</th>
             </tr>
           </thead>
-          <tbody><tr title="2026-06-27, 2026-06-30, 2026-07-01, 2026-07-02, 2026-07-03"><td><span class="rank-pill gold">1</span></td><td class="tk">MU</td><td class="nm">Micron Technology, Inc.</td><td><div class="bar-cell"><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="bar-val">5日</span></div></td><td class="dim mono">2026-07-03</td></tr></tbody>
+          <tbody><tr title="2026-06-27, 2026-06-30, 2026-07-01, 2026-07-02, 2026-07-03, 2026-07-04"><td><span class="rank-pill gold">1</span></td><td class="tk">MU</td><td class="nm">Micron Technology, Inc.</td><td><div class="bar-cell"><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="bar-val">6日</span></div></td><td class="dim mono">2026-07-04</td></tr></tbody>
         </table>
       </div>
     </div>
@@ -391,7 +391,8 @@ tr.hl:hover td{background:rgba(196,124,10,.12) !important}
           <thead>
             <tr><th>日付</th><th>銘柄コード</th><th>銘柄名</th></tr>
           </thead>
-          <tbody><tr><td class="dim mono">2026-07-03</td><td class="tk">MU</td><td class="nm">Micron Technology, Inc.</td></tr>
+          <tbody><tr><td class="dim mono">2026-07-04</td><td class="tk">MU</td><td class="nm">Micron Technology, Inc.</td></tr>
+<tr><td class="dim mono">2026-07-03</td><td class="tk">MU</td><td class="nm">Micron Technology, Inc.</td></tr>
 <tr><td class="dim mono">2026-07-02</td><td class="tk">MU</td><td class="nm">Micron Technology, Inc.</td></tr>
 <tr><td class="dim mono">2026-07-01</td><td class="tk">MU</td><td class="nm">Micron Technology, Inc.</td></tr>
 <tr><td class="dim mono">2026-06-30</td><td class="tk">MU</td><td class="nm">Micron Technology, Inc.</td></tr>
@@ -417,10 +418,10 @@ Chart.defaults.borderColor = '#e4e9f0';
   new Chart(ctx,{
     type:'line',
     data:{
-      labels:["2026-06-27", "2026-06-30", "2026-07-01", "2026-07-02", "2026-07-03"],
+      labels:["2026-06-27", "2026-06-30", "2026-07-01", "2026-07-02", "2026-07-03", "2026-07-04"],
       datasets:[{
         label:'NVDA 順位',
-        data:[7, 2, 2, 3, 4],
+        data:[7, 2, 2, 3, 4, 4],
         borderColor:'#c47c0a',backgroundColor:grad,
         borderWidth:2.5,
         pointBackgroundColor:'#c47c0a',pointBorderColor:'#ffffff',pointBorderWidth:2,
@@ -462,7 +463,7 @@ Chart.defaults.borderColor = '#e4e9f0';
       labels:["MU"],
       datasets:[{
         label:'1位獲得日数',
-        data:[5],
+        data:[6],
         backgroundColor:["#f5a623"],
         borderRadius:3,borderSkipped:false,
       }]
