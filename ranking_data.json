@@ -916,5 +916,107 @@
       "volume": 59001351,
       "dollar_vol": 8749900353.0
     }
+  ],
+  "2026-07-10": [
+    {
+      "rank": 1,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 991.64,
+      "change": 42.84,
+      "change_pct": 4.5152,
+      "volume": 40544835,
+      "dollar_vol": 40205880179.0
+    },
+    {
+      "rank": 2,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 202.78,
+      "change": -1.34,
+      "change_pct": -0.6565,
+      "volume": 130728739,
+      "dollar_vol": 26509173694.0
+    },
+    {
+      "rank": 3,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1858.27,
+      "change": 131.09,
+      "change_pct": 7.5898,
+      "volume": 13159812,
+      "dollar_vol": 24454483845.0
+    },
+    {
+      "rank": 4,
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 631.48,
+      "change": 28.36,
+      "change_pct": 4.7022,
+      "volume": 25282764,
+      "dollar_vol": 15965559811.0
+    },
+    {
+      "rank": 5,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 406.55,
+      "change": 12.62,
+      "change_pct": 3.2036,
+      "volume": 36519720,
+      "dollar_vol": 14847092166.0
+    },
+    {
+      "rank": 6,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 546.72,
+      "change": 29.3149,
+      "change_pct": 5.6658,
+      "volume": 26670194,
+      "dollar_vol": 14581128464.0
+    },
+    {
+      "rank": 7,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 316.22,
+      "change": 2.83,
+      "change_pct": 0.903,
+      "volume": 44882363,
+      "dollar_vol": 14192700828.0
+    },
+    {
+      "rank": 8,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 384.36,
+      "change": 1.02,
+      "change_pct": 0.2661,
+      "volume": 30353251,
+      "dollar_vol": 11666575554.0
+    },
+    {
+      "rank": 9,
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "price": 112.54,
+      "change": 2.3,
+      "change_pct": 2.0864,
+      "volume": 98791391,
+      "dollar_vol": 11117983143.0
+    },
+    {
+      "rank": 10,
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "price": 401.11,
+      "change": 12.42,
+      "change_pct": 3.1953,
+      "volume": 27437098,
+      "dollar_vol": 11005294379.0
+    }
   ]
 }
