@@ -1222,5 +1222,107 @@
       "volume": 99602024,
       "dollar_vol": 10270960715.0
     }
+  ],
+  "2026-07-15": [
+    {
+      "rank": 1,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 983.12,
+      "change": 46.12,
+      "change_pct": 4.9221,
+      "volume": 30820913,
+      "dollar_vol": 30300655989.0
+    },
+    {
+      "rank": 2,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 211.8,
+      "change": 8.2716,
+      "change_pct": 4.0641,
+      "volume": 124363999,
+      "dollar_vol": 26340294988.0
+    },
+    {
+      "rank": 3,
+      "ticker": "SKHYV",
+      "name": "SK hynix Inc. - American Deposi",
+      "price": 168.01,
+      "change": 168.01,
+      "change_pct": 0,
+      "volume": 107674661,
+      "dollar_vol": 18090419795.0
+    },
+    {
+      "rank": 4,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1757.82,
+      "change": 83.85,
+      "change_pct": 5.009,
+      "volume": 9621727,
+      "dollar_vol": 16913264155.0
+    },
+    {
+      "rank": 5,
+      "ticker": "IBM",
+      "name": "International Business Machines",
+      "price": 217.07,
+      "change": -73.16,
+      "change_pct": -25.2076,
+      "volume": 67422893,
+      "dollar_vol": 14635487384.0
+    },
+    {
+      "rank": 6,
+      "ticker": "SKHY",
+      "name": "SK hynix Inc. - American Depos",
+      "price": 193.92,
+      "change": 41.57,
+      "change_pct": 27.2858,
+      "volume": 72595986,
+      "dollar_vol": 14077813605.0
+    },
+    {
+      "rank": 7,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 548.13,
+      "change": 13.74,
+      "change_pct": 2.5712,
+      "volume": 21197800,
+      "dollar_vol": 11619150114.0
+    },
+    {
+      "rank": 8,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 314.86,
+      "change": -2.45,
+      "change_pct": -0.7721,
+      "volume": 36328962,
+      "dollar_vol": 11438536975.0
+    },
+    {
+      "rank": 9,
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 661.04,
+      "change": 4.31,
+      "change_pct": 0.6563,
+      "volume": 16746154,
+      "dollar_vol": 11069877640.0
+    },
+    {
+      "rank": 10,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 384.93,
+      "change": -6.06,
+      "change_pct": -1.5499,
+      "volume": 27858198,
+      "dollar_vol": 10723456156.0
+    }
   ]
 }
