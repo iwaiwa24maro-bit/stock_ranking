@@ -1630,5 +1630,107 @@
       "volume": 29958144,
       "dollar_vol": 11409259561.0
     }
+  ],
+  "2026-07-21": [
+    {
+      "rank": 1,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 865.46,
+      "change": 16.51,
+      "change_pct": 1.9448,
+      "volume": 37344218,
+      "dollar_vol": 32319926910.0
+    },
+    {
+      "rank": 2,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 203.28,
+      "change": 0.47,
+      "change_pct": 0.2317,
+      "volume": 88271631,
+      "dollar_vol": 17943857150.0
+    },
+    {
+      "rank": 3,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1390.95,
+      "change": 36.13,
+      "change_pct": 2.6668,
+      "volume": 12404763,
+      "dollar_vol": 17254405095.0
+    },
+    {
+      "rank": 4,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 326.59,
+      "change": -7.15,
+      "change_pct": -2.1424,
+      "volume": 51014085,
+      "dollar_vol": 16660690020.0
+    },
+    {
+      "rank": 5,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 369.57,
+      "change": -11.27,
+      "change_pct": -2.9592,
+      "volume": 32893543,
+      "dollar_vol": 12156466687.0
+    },
+    {
+      "rank": 6,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 503.57,
+      "change": 7.81,
+      "change_pct": 1.5754,
+      "volume": 23212955,
+      "dollar_vol": 11689347749.0
+    },
+    {
+      "rank": 7,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 402.29,
+      "change": 8.47,
+      "change_pct": 2.1507,
+      "volume": 27729614,
+      "dollar_vol": 11155346416.0
+    },
+    {
+      "rank": 8,
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "price": 97.06,
+      "change": 2.02,
+      "change_pct": 2.1254,
+      "volume": 89273530,
+      "dollar_vol": 8664888822.0
+    },
+    {
+      "rank": 9,
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 351.99,
+      "change": 5.22,
+      "change_pct": 1.5053,
+      "volume": 24606836,
+      "dollar_vol": 8661360204.0
+    },
+    {
+      "rank": 10,
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 249.99,
+      "change": 2.76,
+      "change_pct": 1.1164,
+      "volume": 30630782,
+      "dollar_vol": 7657389192.0
+    }
   ]
 }
