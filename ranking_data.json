@@ -3364,5 +3364,107 @@
       "volume": 29512425,
       "dollar_vol": 8035347955.0
     }
+  ],
+  "2026-08-13": [
+    {
+      "rank": 1,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 911.29,
+      "change": 42.77,
+      "change_pct": 4.9245,
+      "volume": 35803171,
+      "dollar_vol": 32627071701.0
+    },
+    {
+      "rank": 2,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 146.15,
+      "change": 12.86,
+      "change_pct": 9.6481,
+      "volume": 165771792,
+      "dollar_vol": 24227547401.0
+    },
+    {
+      "rank": 3,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 224.09,
+      "change": 6.59,
+      "change_pct": 3.0299,
+      "volume": 106431963,
+      "dollar_vol": 23850338589.0
+    },
+    {
+      "rank": 4,
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "price": 100.95,
+      "change": 3.24,
+      "change_pct": 3.3159,
+      "volume": 161584069,
+      "dollar_vol": 16311911766.0
+    },
+    {
+      "rank": 5,
+      "ticker": "NBIS",
+      "name": "Nebius Group N.V.",
+      "price": 259.2,
+      "change": 65.97,
+      "change_pct": 34.1407,
+      "volume": 62364592,
+      "dollar_vol": 16164902246.0
+    },
+    {
+      "rank": 6,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1344.29,
+      "change": 73.24,
+      "change_pct": 5.7622,
+      "volume": 11762326,
+      "dollar_vol": 15811977219.0
+    },
+    {
+      "rank": 7,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 492.43,
+      "change": -11.38,
+      "change_pct": -2.2588,
+      "volume": 27275247,
+      "dollar_vol": 13431149880.0
+    },
+    {
+      "rank": 8,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 302.25,
+      "change": -2.66,
+      "change_pct": -0.8724,
+      "volume": 38820559,
+      "dollar_vol": 11733513958.0
+    },
+    {
+      "rank": 9,
+      "ticker": "LITE",
+      "name": "Lumentum Holdings Inc.",
+      "price": 932.47,
+      "change": 111.88,
+      "change_pct": 13.6341,
+      "volume": 11738891,
+      "dollar_vol": 10946163691.0
+    },
+    {
+      "rank": 10,
+      "ticker": "CRWV",
+      "name": "CoreWeave, Inc.",
+      "price": 107.73,
+      "change": 17.41,
+      "change_pct": 19.2759,
+      "volume": 86984872,
+      "dollar_vol": 9370880261.0
+    }
   ]
 }
