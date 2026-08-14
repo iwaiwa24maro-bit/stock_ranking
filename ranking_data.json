@@ -3466,5 +3466,107 @@
       "volume": 86984872,
       "dollar_vol": 9370880261.0
     }
+  ],
+  "2026-08-14": [
+    {
+      "rank": 1,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 949.83,
+      "change": 38.54,
+      "change_pct": 4.2292,
+      "volume": 36294784,
+      "dollar_vol": 34473874687.0
+    },
+    {
+      "rank": 2,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1528.11,
+      "change": 183.82,
+      "change_pct": 13.6741,
+      "volume": 21647562,
+      "dollar_vol": 33079855968.0
+    },
+    {
+      "rank": 3,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 225.3,
+      "change": 1.21,
+      "change_pct": 0.54,
+      "volume": 93629467,
+      "dollar_vol": 21094718915.0
+    },
+    {
+      "rank": 4,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 141.29,
+      "change": -4.86,
+      "change_pct": -3.3253,
+      "volume": 117955781,
+      "dollar_vol": 16665972297.0
+    },
+    {
+      "rank": 5,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 305.26,
+      "change": 3.01,
+      "change_pct": 0.9959,
+      "volume": 38492546,
+      "dollar_vol": 11750234592.0
+    },
+    {
+      "rank": 6,
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "price": 104.56,
+      "change": 3.61,
+      "change_pct": 3.576,
+      "volume": 111979671,
+      "dollar_vol": 11708594400.0
+    },
+    {
+      "rank": 7,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 339.96,
+      "change": 12.45,
+      "change_pct": 3.8014,
+      "volume": 33336616,
+      "dollar_vol": 11333115975.0
+    },
+    {
+      "rank": 8,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 496.88,
+      "change": 4.45,
+      "change_pct": 0.9037,
+      "volume": 22600346,
+      "dollar_vol": 11229659920.0
+    },
+    {
+      "rank": 9,
+      "ticker": "NBIS",
+      "name": "Nebius Group N.V.",
+      "price": 255.04,
+      "change": -4.16,
+      "change_pct": -1.605,
+      "volume": 36012698,
+      "dollar_vol": 9184678498.0
+    },
+    {
+      "rank": 10,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 483.01,
+      "change": 0.08,
+      "change_pct": 0.0166,
+      "volume": 18194677,
+      "dollar_vol": 8788210938.0
+    }
   ]
 }
