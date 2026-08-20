@@ -3874,5 +3874,107 @@
       "volume": 22808949,
       "dollar_vol": 8667400620.0
     }
+  ],
+  "2026-08-20": [
+    {
+      "rank": 1,
+      "ticker": "MRNA",
+      "name": "Moderna, Inc.",
+      "price": 174.38,
+      "change": 111.42,
+      "change_pct": 176.97,
+      "volume": 185077360,
+      "dollar_vol": 32273790037.0
+    },
+    {
+      "rank": 2,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1568.87,
+      "change": -56.91,
+      "change_pct": -3.5005,
+      "volume": 15923446,
+      "dollar_vol": 24981816726.0
+    },
+    {
+      "rank": 3,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 937.105,
+      "change": -3.655,
+      "change_pct": -0.3885,
+      "volume": 25693662,
+      "dollar_vol": 24077659129.0
+    },
+    {
+      "rank": 4,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 217.56,
+      "change": -2.18,
+      "change_pct": -0.9921,
+      "volume": 96854269,
+      "dollar_vol": 21071614764.0
+    },
+    {
+      "rank": 5,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 316.83,
+      "change": 6.8,
+      "change_pct": 2.1933,
+      "volume": 50009121,
+      "dollar_vol": 15844389806.0
+    },
+    {
+      "rank": 6,
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "price": 362.48,
+      "change": -17.35,
+      "change_pct": -4.5678,
+      "volume": 34787245,
+      "dollar_vol": 12609680568.0
+    },
+    {
+      "rank": 7,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 351.12,
+      "change": 14.25,
+      "change_pct": 4.2301,
+      "volume": 35322838,
+      "dollar_vol": 12402554879.0
+    },
+    {
+      "rank": 8,
+      "ticker": "NBIS",
+      "name": "Nebius Group N.V.",
+      "price": 223.9,
+      "change": -24.53,
+      "change_pct": -9.874,
+      "volume": 49444471,
+      "dollar_vol": 11070617057.0
+    },
+    {
+      "rank": 9,
+      "ticker": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "price": 237.27,
+      "change": 21.27,
+      "change_pct": 9.8472,
+      "volume": 43562582,
+      "dollar_vol": 10336093831.0
+    },
+    {
+      "rank": 10,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 139.65,
+      "change": -3.69,
+      "change_pct": -2.5743,
+      "volume": 72530278,
+      "dollar_vol": 10128853323.0
+    }
   ]
 }
