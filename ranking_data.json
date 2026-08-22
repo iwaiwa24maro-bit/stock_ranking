@@ -4078,5 +4078,107 @@
       "volume": 13836762,
       "dollar_vol": 7552519802.0
     }
+  ],
+  "2026-08-22": [
+    {
+      "rank": 1,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 362.86,
+      "change": 17.73,
+      "change_pct": 5.1372,
+      "volume": 57808372,
+      "dollar_vol": 20976345864.0
+    },
+    {
+      "rank": 2,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 214.72,
+      "change": -2.13,
+      "change_pct": -0.9822,
+      "volume": 91591112,
+      "dollar_vol": 19666443569.0
+    },
+    {
+      "rank": 3,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 309.35,
+      "change": -1.95,
+      "change_pct": -0.6264,
+      "volume": 42216056,
+      "dollar_vol": 13059536924.0
+    },
+    {
+      "rank": 4,
+      "ticker": "MRNA",
+      "name": "Moderna, Inc.",
+      "price": 145.13,
+      "change": 11.81,
+      "change_pct": 8.8584,
+      "volume": 86743104,
+      "dollar_vol": 12589026684.0
+    },
+    {
+      "rank": 5,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1596.08,
+      "change": -4.54,
+      "change_pct": -0.2836,
+      "volume": 7503783,
+      "dollar_vol": 11976637971.0
+    },
+    {
+      "rank": 6,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 136.97,
+      "change": 2.97,
+      "change_pct": 2.2164,
+      "volume": 77453430,
+      "dollar_vol": 10608796307.0
+    },
+    {
+      "rank": 7,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 483.24,
+      "change": 2.09,
+      "change_pct": 0.4344,
+      "volume": 21856586,
+      "dollar_vol": 10561976619.0
+    },
+    {
+      "rank": 8,
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 258.63,
+      "change": -1.48,
+      "change_pct": -0.569,
+      "volume": 35440827,
+      "dollar_vol": 9166061087.0
+    },
+    {
+      "rank": 9,
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "price": 90.07,
+      "change": -2.06,
+      "change_pct": -2.236,
+      "volume": 90790387,
+      "dollar_vol": 8177490157.0
+    },
+    {
+      "rank": 10,
+      "ticker": "PLTR",
+      "name": "Palantir Technologies Inc.",
+      "price": 179.94,
+      "change": 5.98,
+      "change_pct": 3.4376,
+      "volume": 40929832,
+      "dollar_vol": 7364913970.0
+    }
   ]
 }
