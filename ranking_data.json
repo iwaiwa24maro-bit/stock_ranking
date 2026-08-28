@@ -4486,5 +4486,107 @@
       "volume": 13804691,
       "dollar_vol": 6639090043.0
     }
+  ],
+  "2026-08-28": [
+    {
+      "rank": 1,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 227.98,
+      "change": 18.32,
+      "change_pct": 8.7379,
+      "volume": 297197891,
+      "dollar_vol": 67755175190.0
+    },
+    {
+      "rank": 2,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 505.06,
+      "change": 8.69,
+      "change_pct": 1.7507,
+      "volume": 28615865,
+      "dollar_vol": 14452728777.0
+    },
+    {
+      "rank": 3,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1484.95,
+      "change": -14.42,
+      "change_pct": -0.9617,
+      "volume": 8754429,
+      "dollar_vol": 12999889344.0
+    },
+    {
+      "rank": 4,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 354.81,
+      "change": 8.99,
+      "change_pct": 2.5996,
+      "volume": 29998173,
+      "dollar_vol": 10643651762.0
+    },
+    {
+      "rank": 5,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 314.58,
+      "change": 1.13,
+      "change_pct": 0.3605,
+      "volume": 32248789,
+      "dollar_vol": 10144824044.0
+    },
+    {
+      "rank": 6,
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "price": 92.09,
+      "change": 3.85,
+      "change_pct": 4.3631,
+      "volume": 99979854,
+      "dollar_vol": 9207144755.0
+    },
+    {
+      "rank": 7,
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 256.26,
+      "change": -4.02,
+      "change_pct": -1.5445,
+      "volume": 35779842,
+      "dollar_vol": 9168942311.0
+    },
+    {
+      "rank": 8,
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 571.1,
+      "change": -5.04,
+      "change_pct": -0.8748,
+      "volume": 15160180,
+      "dollar_vol": 8657978798.0
+    },
+    {
+      "rank": 9,
+      "ticker": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "price": 241.45,
+      "change": -3.66,
+      "change_pct": -1.4932,
+      "volume": 35613507,
+      "dollar_vol": 8598881265.0
+    },
+    {
+      "rank": 10,
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 340.65,
+      "change": -1.35,
+      "change_pct": -0.3947,
+      "volume": 23284085,
+      "dollar_vol": 7931723555.0
+    }
   ]
 }
