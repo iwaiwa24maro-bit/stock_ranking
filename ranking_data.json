@@ -4588,5 +4588,107 @@
       "volume": 23284085,
       "dollar_vol": 7931723555.0
     }
+  ],
+  "2026-08-29": [
+    {
+      "rank": 1,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 217.55,
+      "change": -10.43,
+      "change_pct": -4.575,
+      "volume": 194036188,
+      "dollar_vol": 42212572699.0
+    },
+    {
+      "rank": 2,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 932.86,
+      "change": -2.53,
+      "change_pct": -0.2705,
+      "volume": 22761175,
+      "dollar_vol": 21232989710.0
+    },
+    {
+      "rank": 3,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 513.53,
+      "change": 8.47,
+      "change_pct": 1.677,
+      "volume": 28953449,
+      "dollar_vol": 14868464665.0
+    },
+    {
+      "rank": 4,
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 266.43,
+      "change": 10.17,
+      "change_pct": 3.9686,
+      "volume": 49322804,
+      "dollar_vol": 13141074670.0
+    },
+    {
+      "rank": 5,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 319.7,
+      "change": 5.12,
+      "change_pct": 1.6276,
+      "volume": 38500185,
+      "dollar_vol": 12308509144.0
+    },
+    {
+      "rank": 6,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1484.98,
+      "change": 0.03,
+      "change_pct": 0.002,
+      "volume": 8104535,
+      "dollar_vol": 12035072384.0
+    },
+    {
+      "rank": 7,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 348.75,
+      "change": -6.06,
+      "change_pct": -1.708,
+      "volume": 32818355,
+      "dollar_vol": 11445401306.0
+    },
+    {
+      "rank": 8,
+      "ticker": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "price": 216.62,
+      "change": -24.83,
+      "change_pct": -10.2837,
+      "volume": 48739012,
+      "dollar_vol": 10557844779.0
+    },
+    {
+      "rank": 9,
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 578.02,
+      "change": 6.92,
+      "change_pct": 1.2117,
+      "volume": 15573685,
+      "dollar_vol": 9001901404.0
+    },
+    {
+      "rank": 10,
+      "ticker": "CRM",
+      "name": "Salesforce, Inc.",
+      "price": 256.0,
+      "change": 3.95,
+      "change_pct": 1.5672,
+      "volume": 34320234,
+      "dollar_vol": 8785979904.0
+    }
   ]
 }
