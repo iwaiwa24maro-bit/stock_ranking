@@ -4690,5 +4690,107 @@
       "volume": 34320234,
       "dollar_vol": 8785979904.0
     }
+  ],
+  "2026-09-01": [
+    {
+      "rank": 1,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1566.7,
+      "change": 81.72,
+      "change_pct": 5.5031,
+      "volume": 23183006,
+      "dollar_vol": 36320815500.0
+    },
+    {
+      "rank": 2,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 220.78,
+      "change": 3.23,
+      "change_pct": 1.4847,
+      "volume": 124033835,
+      "dollar_vol": 27384190091.0
+    },
+    {
+      "rank": 3,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 367.95,
+      "change": 19.2,
+      "change_pct": 5.5054,
+      "volume": 61157428,
+      "dollar_vol": 22502875633.0
+    },
+    {
+      "rank": 4,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 958.73,
+      "change": 25.87,
+      "change_pct": 2.7732,
+      "volume": 22344863,
+      "dollar_vol": 21422690504.0
+    },
+    {
+      "rank": 5,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 507.29,
+      "change": -6.24,
+      "change_pct": -1.2151,
+      "volume": 26637042,
+      "dollar_vol": 13512705036.0
+    },
+    {
+      "rank": 6,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 316.85,
+      "change": -2.85,
+      "change_pct": -0.8915,
+      "volume": 40667429,
+      "dollar_vol": 12885474879.0
+    },
+    {
+      "rank": 7,
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 259.77,
+      "change": -6.66,
+      "change_pct": -2.4997,
+      "volume": 45422317,
+      "dollar_vol": 11799355287.0
+    },
+    {
+      "rank": 8,
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 339.35,
+      "change": -7.24,
+      "change_pct": -2.0889,
+      "volume": 33315062,
+      "dollar_vol": 11305466290.0
+    },
+    {
+      "rank": 9,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 143.69,
+      "change": 2.19,
+      "change_pct": 1.5477,
+      "volume": 62883865,
+      "dollar_vol": 9035782562.0
+    },
+    {
+      "rank": 10,
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "price": 370.34,
+      "change": 1.55,
+      "change_pct": 0.4203,
+      "volume": 21734663,
+      "dollar_vol": 8049215095.0
+    }
   ]
 }
