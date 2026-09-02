@@ -4792,5 +4792,107 @@
       "volume": 21734663,
       "dollar_vol": 8049215095.0
     }
+  ],
+  "2026-09-02": [
+    {
+      "rank": 1,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 933.44,
+      "change": -25.29,
+      "change_pct": -2.6379,
+      "volume": 27573310,
+      "dollar_vol": 25738030486.0
+    },
+    {
+      "rank": 2,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 217.44,
+      "change": -3.06,
+      "change_pct": -1.3878,
+      "volume": 106942626,
+      "dollar_vol": 23253604597.0
+    },
+    {
+      "rank": 3,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1536.87,
+      "change": -29.83,
+      "change_pct": -1.904,
+      "volume": 11580091,
+      "dollar_vol": 17797094455.0
+    },
+    {
+      "rank": 4,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 325.13,
+      "change": 8.28,
+      "change_pct": 2.6132,
+      "volume": 52432411,
+      "dollar_vol": 17047349788.0
+    },
+    {
+      "rank": 5,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 356.09,
+      "change": -11.86,
+      "change_pct": -3.2233,
+      "volume": 35998050,
+      "dollar_vol": 12818545624.0
+    },
+    {
+      "rank": 6,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 501.02,
+      "change": -6.27,
+      "change_pct": -1.236,
+      "volume": 19129792,
+      "dollar_vol": 9584408388.0
+    },
+    {
+      "rank": 7,
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 578.54,
+      "change": 6.2,
+      "change_pct": 1.0833,
+      "volume": 15369187,
+      "dollar_vol": 8891689447.0
+    },
+    {
+      "rank": 8,
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 254.92,
+      "change": -4.85,
+      "change_pct": -1.867,
+      "volume": 31415716,
+      "dollar_vol": 8008494323.0
+    },
+    {
+      "rank": 9,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 142.23,
+      "change": -1.46,
+      "change_pct": -1.0161,
+      "volume": 52813810,
+      "dollar_vol": 7511708196.0
+    },
+    {
+      "rank": 10,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 459.61,
+      "change": -11.11,
+      "change_pct": -2.3602,
+      "volume": 16112953,
+      "dollar_vol": 7405674328.0
+    }
   ]
 }
