@@ -4894,5 +4894,107 @@
       "volume": 16112953,
       "dollar_vol": 7405674328.0
     }
+  ],
+  "2026-09-03": [
+    {
+      "rank": 1,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 224.41,
+      "change": 6.97,
+      "change_pct": 3.2055,
+      "volume": 155979384,
+      "dollar_vol": 35003333563.0
+    },
+    {
+      "rank": 2,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 956.08,
+      "change": 22.64,
+      "change_pct": 2.4254,
+      "volume": 21231828,
+      "dollar_vol": 20299326114.0
+    },
+    {
+      "rank": 3,
+      "ticker": "DELL",
+      "name": "Dell Technologies Inc.",
+      "price": 492.2,
+      "change": 67.2,
+      "change_pct": 15.8118,
+      "volume": 36411468,
+      "dollar_vol": 17921724550.0
+    },
+    {
+      "rank": 4,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1553.4,
+      "change": 16.53,
+      "change_pct": 1.0756,
+      "volume": 8866446,
+      "dollar_vol": 13773137216.0
+    },
+    {
+      "rank": 5,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 357.01,
+      "change": 0.92,
+      "change_pct": 0.2584,
+      "volume": 33758963,
+      "dollar_vol": 12052287381.0
+    },
+    {
+      "rank": 6,
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "price": 367.24,
+      "change": -2.44,
+      "change_pct": -0.66,
+      "volume": 30822042,
+      "dollar_vol": 11319086704.0
+    },
+    {
+      "rank": 7,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 324.96,
+      "change": -0.17,
+      "change_pct": -0.0523,
+      "volume": 33660931,
+      "dollar_vol": 10938456138.0
+    },
+    {
+      "rank": 8,
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 592.85,
+      "change": 14.31,
+      "change_pct": 2.4735,
+      "volume": 16426291,
+      "dollar_vol": 9738326619.0
+    },
+    {
+      "rank": 9,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 496.82,
+      "change": -4.2,
+      "change_pct": -0.8383,
+      "volume": 15280048,
+      "dollar_vol": 7591433447.0
+    },
+    {
+      "rank": 10,
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 337.12,
+      "change": 2.1,
+      "change_pct": 0.6268,
+      "volume": 22400937,
+      "dollar_vol": 7551803881.0
+    }
   ]
 }
