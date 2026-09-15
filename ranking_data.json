@@ -5710,5 +5710,107 @@
       "volume": 86721642,
       "dollar_vol": 8927125827.0
     }
+  ],
+  "2026-09-15": [
+    {
+      "rank": 1,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 210.96,
+      "change": -7.33,
+      "change_pct": -3.3579,
+      "volume": 131608711,
+      "dollar_vol": 27764173673.0
+    },
+    {
+      "rank": 2,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 924.03,
+      "change": -51.23,
+      "change_pct": -5.253,
+      "volume": 26979663,
+      "dollar_vol": 24930018002.0
+    },
+    {
+      "rank": 3,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1551.99,
+      "change": -81.36,
+      "change_pct": -4.9812,
+      "volume": 9544369,
+      "dollar_vol": 14812765244.0
+    },
+    {
+      "rank": 4,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 333.08,
+      "change": 0.81,
+      "change_pct": 0.2438,
+      "volume": 38702066,
+      "dollar_vol": 12890884143.0
+    },
+    {
+      "rank": 5,
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 665.6,
+      "change": 17.5699,
+      "change_pct": 2.7113,
+      "volume": 19270307,
+      "dollar_vol": 12826316339.0
+    },
+    {
+      "rank": 6,
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 349.39,
+      "change": 10.89,
+      "change_pct": 3.2171,
+      "volume": 35092727,
+      "dollar_vol": 12261047887.0
+    },
+    {
+      "rank": 7,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 493.41,
+      "change": -22.72,
+      "change_pct": -4.402,
+      "volume": 24716969,
+      "dollar_vol": 12195599674.0
+    },
+    {
+      "rank": 8,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 505.41,
+      "change": 9.78,
+      "change_pct": 1.9732,
+      "volume": 23020956,
+      "dollar_vol": 11635021372.0
+    },
+    {
+      "rank": 9,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 358.97,
+      "change": -6.47,
+      "change_pct": -1.7705,
+      "volume": 32337601,
+      "dollar_vol": 11608228631.0
+    },
+    {
+      "rank": 10,
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "price": 344.72,
+      "change": -17.27,
+      "change_pct": -4.7709,
+      "volume": 31899307,
+      "dollar_vol": 10996329109.0
+    }
   ]
 }
