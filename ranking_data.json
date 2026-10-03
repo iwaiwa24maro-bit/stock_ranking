@@ -7138,5 +7138,107 @@
       "volume": 18901325,
       "dollar_vol": 9692599460.0
     }
+  ],
+  "2026-10-03": [
+    {
+      "rank": 1,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 233.95,
+      "change": 3.09,
+      "change_pct": 1.3385,
+      "volume": 134470648,
+      "dollar_vol": 31459408100.0
+    },
+    {
+      "rank": 2,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 1074.89,
+      "change": -22.5,
+      "change_pct": -2.0503,
+      "volume": 26523742,
+      "dollar_vol": 28510105038.0
+    },
+    {
+      "rank": 3,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 370.59,
+      "change": 16.48,
+      "change_pct": 4.6539,
+      "volume": 54147498,
+      "dollar_vol": 20066521284.0
+    },
+    {
+      "rank": 4,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 158.96,
+      "change": 10.89,
+      "change_pct": 7.3546,
+      "volume": 119274773,
+      "dollar_vol": 18959917916.0
+    },
+    {
+      "rank": 5,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1719.99,
+      "change": -67.7,
+      "change_pct": -3.787,
+      "volume": 8141704,
+      "dollar_vol": 14003649463.0
+    },
+    {
+      "rank": 6,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 633.91,
+      "change": 18.18,
+      "change_pct": 2.9526,
+      "volume": 19323673,
+      "dollar_vol": 12249469551.0
+    },
+    {
+      "rank": 7,
+      "ticker": "STX",
+      "name": "Seagate Technology Holdings PLC",
+      "price": 848.99,
+      "change": -96.58,
+      "change_pct": -10.2139,
+      "volume": 13521412,
+      "dollar_vol": 11479543574.0
+    },
+    {
+      "rank": 8,
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "price": 119.33,
+      "change": -0.67,
+      "change_pct": -0.5583,
+      "volume": 94956744,
+      "dollar_vol": 11331188262.0
+    },
+    {
+      "rank": 9,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 333.69,
+      "change": 3.37,
+      "change_pct": 1.0202,
+      "volume": 31878433,
+      "dollar_vol": 10637514308.0
+    },
+    {
+      "rank": 10,
+      "ticker": "WDC",
+      "name": "Western Digital Corporation",
+      "price": 415.29,
+      "change": -47.27,
+      "change_pct": -10.2192,
+      "volume": 24651005,
+      "dollar_vol": 10237315866.0
+    }
   ]
 }
