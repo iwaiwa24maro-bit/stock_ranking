@@ -7240,5 +7240,107 @@
       "volume": 24651005,
       "dollar_vol": 10237315866.0
     }
+  ],
+  "2026-10-06": [
+    {
+      "rank": 1,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 238.9,
+      "change": 4.95,
+      "change_pct": 2.1158,
+      "volume": 126384437,
+      "dollar_vol": 30193241999.0
+    },
+    {
+      "rank": 2,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 171.09,
+      "change": 12.13,
+      "change_pct": 7.6308,
+      "volume": 134420923,
+      "dollar_vol": 22998075716.0
+    },
+    {
+      "rank": 3,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 1063.96,
+      "change": -10.9301,
+      "change_pct": -1.0169,
+      "volume": 17877625,
+      "dollar_vol": 19021077895.0
+    },
+    {
+      "rank": 4,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 378.73,
+      "change": 8.14,
+      "change_pct": 2.1965,
+      "volume": 42006295,
+      "dollar_vol": 15909044105.0
+    },
+    {
+      "rank": 5,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 525.18,
+      "change": 7.65,
+      "change_pct": 1.4782,
+      "volume": 26287910,
+      "dollar_vol": 13805884574.0
+    },
+    {
+      "rank": 6,
+      "ticker": "WBD",
+      "name": "Warner Bros. Discovery, Inc. - ",
+      "price": 30.95,
+      "change": 0.01,
+      "change_pct": 0.0323,
+      "volume": 433479617,
+      "dollar_vol": 13416194146.0
+    },
+    {
+      "rank": 7,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 332.89,
+      "change": -0.8,
+      "change_pct": -0.2397,
+      "volume": 34328912,
+      "dollar_vol": 11427751516.0
+    },
+    {
+      "rank": 8,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1704.16,
+      "change": -15.83,
+      "change_pct": -0.9204,
+      "volume": 6461198,
+      "dollar_vol": 11010915184.0
+    },
+    {
+      "rank": 9,
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 741.9,
+      "change": 13.82,
+      "change_pct": 1.8981,
+      "volume": 14774510,
+      "dollar_vol": 10961208969.0
+    },
+    {
+      "rank": 10,
+      "ticker": "TWLO",
+      "name": "Twilio Inc.",
+      "price": 300.91,
+      "change": 6.33,
+      "change_pct": 2.1488,
+      "volume": 34876644,
+      "dollar_vol": 10494730946.0
+    }
   ]
 }
