@@ -8464,5 +8464,107 @@
       "volume": 81263600,
       "dollar_vol": 7451059484.0
     }
+  ],
+  "2026-10-22": [
+    {
+      "rank": 1,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 159.31,
+      "change": 11.52,
+      "change_pct": 7.7949,
+      "volume": 218416864,
+      "dollar_vol": 34795990604.0
+    },
+    {
+      "rank": 2,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 221.97,
+      "change": 5.5,
+      "change_pct": 2.5408,
+      "volume": 86111324,
+      "dollar_vol": 19114130588.0
+    },
+    {
+      "rank": 3,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 913.67,
+      "change": 17.6,
+      "change_pct": 1.9641,
+      "volume": 20724431,
+      "dollar_vol": 18935290872.0
+    },
+    {
+      "rank": 4,
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 697.52,
+      "change": 3.27,
+      "change_pct": 0.471,
+      "volume": 26478796,
+      "dollar_vol": 18469489786.0
+    },
+    {
+      "rank": 5,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 386.47,
+      "change": 12.76,
+      "change_pct": 3.4144,
+      "volume": 44779790,
+      "dollar_vol": 17306045441.0
+    },
+    {
+      "rank": 6,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 343.99,
+      "change": 4.49,
+      "change_pct": 1.3225,
+      "volume": 35368592,
+      "dollar_vol": 12166441962.0
+    },
+    {
+      "rank": 7,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 552.72,
+      "change": 17.98,
+      "change_pct": 3.3624,
+      "volume": 17756841,
+      "dollar_vol": 9814561158.0
+    },
+    {
+      "rank": 8,
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 334.76,
+      "change": -5.515,
+      "change_pct": -1.6207,
+      "volume": 28525256,
+      "dollar_vol": 9549114699.0
+    },
+    {
+      "rank": 9,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 1378.22,
+      "change": 12.84,
+      "change_pct": 0.9404,
+      "volume": 6859996,
+      "dollar_vol": 9454583687.0
+    },
+    {
+      "rank": 10,
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 262.37,
+      "change": -0.26,
+      "change_pct": -0.099,
+      "volume": 30981629,
+      "dollar_vol": 8128650001.0
+    }
   ]
 }
