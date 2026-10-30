@@ -9076,5 +9076,107 @@
       "volume": 81527008,
       "dollar_vol": 11783913736.0
     }
+  ],
+  "2026-10-30": [
+    {
+      "rank": 1,
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 283.82,
+      "change": -41.07,
+      "change_pct": -12.6412,
+      "volume": 138462344,
+      "dollar_vol": 39298382474.0
+    },
+    {
+      "rank": 2,
+      "ticker": "GOOG",
+      "name": "Alphabet Inc.",
+      "price": 282.32,
+      "change": -39.57,
+      "change_pct": -12.293,
+      "volume": 92306922,
+      "dollar_vol": 26060090219.0
+    },
+    {
+      "rank": 3,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 530.14,
+      "change": -0.87,
+      "change_pct": -0.1638,
+      "volume": 39119013,
+      "dollar_vol": 20738553552.0
+    },
+    {
+      "rank": 4,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 934.27,
+      "change": -48.96,
+      "change_pct": -4.9795,
+      "volume": 21637723,
+      "dollar_vol": 20215475467.0
+    },
+    {
+      "rank": 5,
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 243.79,
+      "change": -10.81,
+      "change_pct": -4.2459,
+      "volume": 79750364,
+      "dollar_vol": 19442341240.0
+    },
+    {
+      "rank": 6,
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 624.52,
+      "change": 12.03,
+      "change_pct": 1.9641,
+      "volume": 31073830,
+      "dollar_vol": 19406228312.0
+    },
+    {
+      "rank": 7,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 213.66,
+      "change": -1.72,
+      "change_pct": -0.7986,
+      "volume": 75456091,
+      "dollar_vol": 16121948403.0
+    },
+    {
+      "rank": 8,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 348.91,
+      "change": 5.08,
+      "change_pct": 1.4775,
+      "volume": 41340227,
+      "dollar_vol": 14424018603.0
+    },
+    {
+      "rank": 9,
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "price": 92.07,
+      "change": -3.46,
+      "change_pct": -3.6219,
+      "volume": 112052896,
+      "dollar_vol": 10316710135.0
+    },
+    {
+      "rank": 10,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 143.89,
+      "change": -1.34,
+      "change_pct": -0.9227,
+      "volume": 66067670,
+      "dollar_vol": 9506477036.0
+    }
   ]
 }
