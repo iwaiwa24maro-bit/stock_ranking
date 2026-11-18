@@ -10402,5 +10402,107 @@
       "volume": 34077805,
       "dollar_vol": 9668554835.0
     }
+  ],
+  "2026-11-18": [
+    {
+      "rank": 1,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 155.46,
+      "change": -0.68,
+      "change_pct": -0.4355,
+      "volume": 370067900,
+      "dollar_vol": 57530755734.0
+    },
+    {
+      "rank": 2,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 712.42,
+      "change": -6.6,
+      "change_pct": -0.9179,
+      "volume": 31800714,
+      "dollar_vol": 22655464668.0
+    },
+    {
+      "rank": 3,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 503.41,
+      "change": -0.87,
+      "change_pct": -0.1725,
+      "volume": 34975206,
+      "dollar_vol": 17606868452.0
+    },
+    {
+      "rank": 4,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 506.24,
+      "change": -11.75,
+      "change_pct": -2.2684,
+      "volume": 27250041,
+      "dollar_vol": 13795060756.0
+    },
+    {
+      "rank": 5,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 351.91,
+      "change": -0.87,
+      "change_pct": -0.2466,
+      "volume": 36248936,
+      "dollar_vol": 12756363068.0
+    },
+    {
+      "rank": 6,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 141.7,
+      "change": 4.34,
+      "change_pct": 3.1596,
+      "volume": 87396571,
+      "dollar_vol": 12384094111.0
+    },
+    {
+      "rank": 7,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 797.24,
+      "change": -11.87,
+      "change_pct": -1.467,
+      "volume": 14885361,
+      "dollar_vol": 11867205204.0
+    },
+    {
+      "rank": 8,
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 257.89,
+      "change": 0.14,
+      "change_pct": 0.0543,
+      "volume": 37098176,
+      "dollar_vol": 9567248609.0
+    },
+    {
+      "rank": 9,
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufactur",
+      "price": 359.69,
+      "change": -13.76,
+      "change_pct": -3.6846,
+      "volume": 24446605,
+      "dollar_vol": 8793199352.0
+    },
+    {
+      "rank": 10,
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "price": 341.6,
+      "change": 8.2,
+      "change_pct": 2.4595,
+      "volume": 25732265,
+      "dollar_vol": 8790141724.0
+    }
   ]
 }
