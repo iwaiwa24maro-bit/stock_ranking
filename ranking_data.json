@@ -10912,5 +10912,107 @@
       "volume": 95396741,
       "dollar_vol": 12721155412.0
     }
+  ],
+  "2026-11-25": [
+    {
+      "rank": 1,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 155.38,
+      "change": -9.67,
+      "change_pct": -5.8588,
+      "volume": 382058256,
+      "dollar_vol": 59364211817.0
+    },
+    {
+      "rank": 2,
+      "ticker": "ANT",
+      "name": "Anthropic, PBC",
+      "price": 81.905,
+      "change": -5.735,
+      "change_pct": -6.5438,
+      "volume": 311641596,
+      "dollar_vol": 25525004920.0
+    },
+    {
+      "rank": 3,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 629.79,
+      "change": -77.91,
+      "change_pct": -11.0089,
+      "volume": 38650391,
+      "dollar_vol": 24341629748.0
+    },
+    {
+      "rank": 4,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 413.27,
+      "change": -40.19,
+      "change_pct": -8.863,
+      "volume": 45929868,
+      "dollar_vol": 18981436548.0
+    },
+    {
+      "rank": 5,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 354.07,
+      "change": 4.99,
+      "change_pct": 1.4295,
+      "volume": 40235897,
+      "dollar_vol": 14246324051.0
+    },
+    {
+      "rank": 6,
+      "ticker": "INSM",
+      "name": "Insmed Incorporated",
+      "price": 170.15,
+      "change": 21.06,
+      "change_pct": 14.1257,
+      "volume": 78939191,
+      "dollar_vol": 13431503349.0
+    },
+    {
+      "rank": 7,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 125.81,
+      "change": -7.54,
+      "change_pct": -5.6543,
+      "volume": 103186106,
+      "dollar_vol": 12981843996.0
+    },
+    {
+      "rank": 8,
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 496.13,
+      "change": 3.63,
+      "change_pct": 0.7371,
+      "volume": 22448885,
+      "dollar_vol": 11137565315.0
+    },
+    {
+      "rank": 9,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 384.68,
+      "change": -0.78,
+      "change_pct": -0.2024,
+      "volume": 28208872,
+      "dollar_vol": 10851388881.0
+    },
+    {
+      "rank": 10,
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 279.05,
+      "change": -3.05,
+      "change_pct": -1.0812,
+      "volume": 33470372,
+      "dollar_vol": 9339907307.0
+    }
   ]
 }
