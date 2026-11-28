@@ -11218,5 +11218,107 @@
       "volume": 18558019,
       "dollar_vol": 11318350208.0
     }
+  ],
+  "2026-11-28": [
+    {
+      "rank": 1,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 150.49,
+      "change": 1.19,
+      "change_pct": 0.7971,
+      "volume": 185759641,
+      "dollar_vol": 27954968374.0
+    },
+    {
+      "rank": 2,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 646.95,
+      "change": 45.7,
+      "change_pct": 7.6008,
+      "volume": 26904909,
+      "dollar_vol": 17406130878.0
+    },
+    {
+      "rank": 3,
+      "ticker": "ANT",
+      "name": "Anthropic, PBC",
+      "price": 91.88,
+      "change": 9.09,
+      "change_pct": 10.9796,
+      "volume": 143747654,
+      "dollar_vol": 13207534450.0
+    },
+    {
+      "rank": 4,
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 400.0,
+      "change": 19.86,
+      "change_pct": 5.2244,
+      "volume": 26634592,
+      "dollar_vol": 10653836800.0
+    },
+    {
+      "rank": 5,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 424.54,
+      "change": 18.51,
+      "change_pct": 4.5588,
+      "volume": 22329180,
+      "dollar_vol": 9479630077.0
+    },
+    {
+      "rank": 6,
+      "ticker": "SNDK",
+      "name": "Sandisk Corporation",
+      "price": 85.36,
+      "change": 11.75,
+      "change_pct": 15.9625,
+      "volume": 97928204,
+      "dollar_vol": 8359151493.0
+    },
+    {
+      "rank": 7,
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 358.54,
+      "change": 2.96,
+      "change_pct": 0.8324,
+      "volume": 22683910,
+      "dollar_vol": 8133089091.0
+    },
+    {
+      "rank": 8,
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 628.96,
+      "change": 19.07,
+      "change_pct": 3.1268,
+      "volume": 11143475,
+      "dollar_vol": 7008800036.0
+    },
+    {
+      "rank": 9,
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 254.12,
+      "change": 9.69,
+      "change_pct": 3.9643,
+      "volume": 27263135,
+      "dollar_vol": 6928107866.0
+    },
+    {
+      "rank": 10,
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies ",
+      "price": 133.59,
+      "change": 6.15,
+      "change_pct": 4.8258,
+      "volume": 51364369,
+      "dollar_vol": 6861766055.0
+    }
   ]
 }
